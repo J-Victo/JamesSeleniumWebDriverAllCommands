@@ -1,2 +1,2 @@
-# JamesSeleniumWebDriverAllCommands
-Inspecting Element with Selenium WebDriver Commands
+# SeleniumWebDriverAllCommands
+This repository contains codes that demonstrate Selenium Commands
